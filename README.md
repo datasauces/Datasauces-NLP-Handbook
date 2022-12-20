@@ -1,1 +1,1 @@
-# Datasauces-NLP-Handbook \nThe resources in this repository focus on data science topics, especi
+# Datasauces-NLP-Handbook \nThe resources in this repository focus on data science topics, especially as they apply to Natural Langu
